@@ -1,0 +1,17 @@
+body{
+     height: 100%;
+    width: 100%;
+    background-image: url('/Image\ Home\ page.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;    
+    position: relative;
+}
+.content{
+    position: absolute;
+    margin-top: 15em ;
+    /* background-image: url('/Image\ Home\ page.jpg'); */
+    text-align: center;
+    /* direction: rtl; */
+    right: 0;
+    margin-right: 10em;
+}
